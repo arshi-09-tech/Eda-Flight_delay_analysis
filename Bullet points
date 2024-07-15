@@ -1,0 +1,4 @@
+Conducted comprehensive exploratory data analysis (EDA) on commercial flight report from the 2015 U.S. DOT Air Travel Consumer Report dataset containing more than  5,000,000+ using Jupyter Notebook.
+Utilized Python libraries such as pandas for data manipulation, sqlite3 for SQL queries, and matplotlib.pyplot for data visualization.
+Created insightful visualizations using Matplotlib and Seaborn to present findings on flight delays and cancellations, aiding stakeholders in identifying operational challenges and areas for improvement.
+Generated forecasts for flight cancellations using Excel’s built-in forecasting tools. Provided actionable recommendations based on forecast results to help airlines and airport authorities mitigate potential flight cancellations.
